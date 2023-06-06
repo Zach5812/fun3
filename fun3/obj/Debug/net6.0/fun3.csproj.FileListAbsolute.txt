@@ -1,0 +1,15 @@
+C:\Users\zachl\Desktop\C#\fundamentals\fun3\fun3\bin\Debug\net6.0\fun3.exe
+C:\Users\zachl\Desktop\C#\fundamentals\fun3\fun3\bin\Debug\net6.0\fun3.deps.json
+C:\Users\zachl\Desktop\C#\fundamentals\fun3\fun3\bin\Debug\net6.0\fun3.runtimeconfig.json
+C:\Users\zachl\Desktop\C#\fundamentals\fun3\fun3\bin\Debug\net6.0\fun3.dll
+C:\Users\zachl\Desktop\C#\fundamentals\fun3\fun3\bin\Debug\net6.0\fun3.pdb
+C:\Users\zachl\Desktop\C#\fundamentals\fun3\fun3\obj\Debug\net6.0\fun3.csproj.AssemblyReference.cache
+C:\Users\zachl\Desktop\C#\fundamentals\fun3\fun3\obj\Debug\net6.0\fun3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zachl\Desktop\C#\fundamentals\fun3\fun3\obj\Debug\net6.0\fun3.AssemblyInfoInputs.cache
+C:\Users\zachl\Desktop\C#\fundamentals\fun3\fun3\obj\Debug\net6.0\fun3.AssemblyInfo.cs
+C:\Users\zachl\Desktop\C#\fundamentals\fun3\fun3\obj\Debug\net6.0\fun3.csproj.CoreCompileInputs.cache
+C:\Users\zachl\Desktop\C#\fundamentals\fun3\fun3\obj\Debug\net6.0\fun3.dll
+C:\Users\zachl\Desktop\C#\fundamentals\fun3\fun3\obj\Debug\net6.0\refint\fun3.dll
+C:\Users\zachl\Desktop\C#\fundamentals\fun3\fun3\obj\Debug\net6.0\fun3.pdb
+C:\Users\zachl\Desktop\C#\fundamentals\fun3\fun3\obj\Debug\net6.0\fun3.genruntimeconfig.cache
+C:\Users\zachl\Desktop\C#\fundamentals\fun3\fun3\obj\Debug\net6.0\ref\fun3.dll
